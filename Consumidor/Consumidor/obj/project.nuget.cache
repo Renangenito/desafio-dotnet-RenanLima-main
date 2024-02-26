@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J1rKixisaooXdICh/02tDbtye9v3pVu5oGVTvtyRJImOAyxx7g9Ihy6+pkn5ztWXE1FPB6uKmy3qwtpUSi/UwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Renan\\Desktop\\desafio-dotnet-RenanLima-main\\Consumidor\\Consumidor\\Consumidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

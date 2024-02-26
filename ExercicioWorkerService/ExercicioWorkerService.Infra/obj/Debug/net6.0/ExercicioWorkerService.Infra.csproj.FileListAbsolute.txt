@@ -1,0 +1,17 @@
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\bin\Debug\net6.0\ExercicioWorkerService.Infra.deps.json
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\bin\Debug\net6.0\ExercicioWorkerService.Infra.dll
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\bin\Debug\net6.0\ExercicioWorkerService.Infra.pdb
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\bin\Debug\net6.0\ExercicioWorkerService.Modelo.dll
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\bin\Debug\net6.0\ExercicioWorkerService.Modelo.pdb
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\obj\Debug\net6.0\ExercicioWorkerService.Infra.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\obj\Debug\net6.0\ExercicioWorkerService.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\obj\Debug\net6.0\ExercicioWorkerService.Infra.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\obj\Debug\net6.0\ExercicioWorkerService.Infra.AssemblyInfo.cs
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\obj\Debug\net6.0\ExercicioWorkerService.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\obj\Debug\net6.0\ExercicioWorkerService.Infra.csproj.CopyComplete
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\obj\Debug\net6.0\ExercicioWorkerService.Infra.dll
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\obj\Debug\net6.0\refint\ExercicioWorkerService.Infra.dll
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\obj\Debug\net6.0\ExercicioWorkerService.Infra.pdb
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\obj\Debug\net6.0\ref\ExercicioWorkerService.Infra.dll
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\bin\Debug\net6.0\ExercicioWorkerService.Infra.runtimeconfig.json
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Infra\obj\Debug\net6.0\ExercicioWorkerService.Infra.genruntimeconfig.cache

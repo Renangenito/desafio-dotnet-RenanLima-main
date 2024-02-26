@@ -1,0 +1,17 @@
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\bin\Debug\net6.0\ExercicioWorkerService.Negocio.deps.json
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\bin\Debug\net6.0\ExercicioWorkerService.Negocio.dll
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\bin\Debug\net6.0\ExercicioWorkerService.Negocio.pdb
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\bin\Debug\net6.0\ExercicioWorkerService.Infra.dll
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\bin\Debug\net6.0\ExercicioWorkerService.Modelo.dll
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\bin\Debug\net6.0\ExercicioWorkerService.Infra.pdb
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\bin\Debug\net6.0\ExercicioWorkerService.Modelo.pdb
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\obj\Debug\net6.0\ExercicioWorkerService.Negocio.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\obj\Debug\net6.0\ExercicioWorkerService.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\obj\Debug\net6.0\ExercicioWorkerService.Negocio.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\obj\Debug\net6.0\ExercicioWorkerService.Negocio.AssemblyInfo.cs
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\obj\Debug\net6.0\ExercicioWorkerService.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\obj\Debug\net6.0\ExercicioWorkerService.Negocio.csproj.CopyComplete
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\obj\Debug\net6.0\ExercicioWorkerService.Negocio.dll
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\obj\Debug\net6.0\refint\ExercicioWorkerService.Negocio.dll
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\obj\Debug\net6.0\ExercicioWorkerService.Negocio.pdb
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\ExercicioWorkerService\ExercicioWorkerService.Negocio\obj\Debug\net6.0\ref\ExercicioWorkerService.Negocio.dll

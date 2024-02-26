@@ -1,0 +1,15 @@
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\bin\Debug\net6.0\Aula60-TryCatch.exe
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\bin\Debug\net6.0\Aula60-TryCatch.deps.json
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\bin\Debug\net6.0\Aula60-TryCatch.runtimeconfig.json
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\bin\Debug\net6.0\Aula60-TryCatch.dll
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\bin\Debug\net6.0\Aula60-TryCatch.pdb
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\obj\Debug\net6.0\Aula60-TryCatch.csproj.AssemblyReference.cache
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\obj\Debug\net6.0\Aula60-TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\obj\Debug\net6.0\Aula60-TryCatch.AssemblyInfoInputs.cache
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\obj\Debug\net6.0\Aula60-TryCatch.AssemblyInfo.cs
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\obj\Debug\net6.0\Aula60-TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\obj\Debug\net6.0\Aula60-TryCatch.dll
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\obj\Debug\net6.0\refint\Aula60-TryCatch.dll
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\obj\Debug\net6.0\Aula60-TryCatch.pdb
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\obj\Debug\net6.0\Aula60-TryCatch.genruntimeconfig.cache
+C:\Users\Renan\Desktop\desafio-dotnet-RenanLima-main\Aula60-TryCatch\Aula60-TryCatch\obj\Debug\net6.0\ref\Aula60-TryCatch.dll
